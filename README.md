@@ -6,4 +6,4 @@
       Username : test@gmail.com
       Password : test123
 
-02. Add DB.sql file to the mysql server (db name : csrf)
+02.Add DB.sql file to the mysql server (db name : csrf)
