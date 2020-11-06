@@ -1,0 +1,1 @@
+# CSRF-protection-in-web-applications-via-Synchronizer-Token-Patterns
